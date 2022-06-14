@@ -17,4 +17,5 @@ This script automatically downloads files of all extensions from the site you sp
 
 ## Usage
 It's very simple, just write this command and get the result :)
+
 `metagoofil.sh site.to.pentest.com folder/to/sdave/files OutputFileName.txt`
