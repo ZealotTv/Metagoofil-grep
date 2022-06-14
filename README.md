@@ -2,12 +2,12 @@
 This script automatically downloads files of all extensions from the site you specified, grep information for all fields and writes to a file
 
 ## Requirements
-You need to install Metagoofil and exiftool
+You need to install [Metagoofil](https://github.com/opsdisk/metagoofil.git) and exiftool
 
 
 ## Installation
 ```
-1) install [Metagoofil](https://github.com/opsdisk/metagoofil.git)
+1) install Metagoofil
 2) cd metagoofil
 3) echo $PWD
 4) cd folder/where/you/want/to/install/my/script
