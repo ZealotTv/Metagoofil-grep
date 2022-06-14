@@ -7,7 +7,7 @@ You need to install Metagoofil and exiftool
 
 ## Installation
 ```
-1) install metagoofil(https://github.com/opsdisk/metagoofil.git)
+1) install [Metagoofil](https://github.com/opsdisk/metagoofil.git)
 2) cd metagoofil
 3) echo $PWD
 4) cd folder/where/you/want/to/install/my/script
