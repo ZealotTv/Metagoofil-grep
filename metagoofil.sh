@@ -1,3 +1,4 @@
+#!/bain/bash
 cd way/to/your/folder/with/metagoofil
 python metagoofil.py  -d $1 -t doc,docx,pdf,ppt,pptx,odf,xls,xlsx -l 400 -n 400 -o $2  -w 
 filetypes=("doc" "docx" "pdf" "ppt" "pptx" "odf" "xls" "xlsx")
