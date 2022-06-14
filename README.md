@@ -2,7 +2,7 @@
 This script automatically downloads files of all extensions from the site you specified, grep information for all fields and writes to a file
 
 ## Requirements
-You need to install [Metagoofil](https://github.com/opsdisk/metagoofil.git) and exiftool
+You need to install [Metagoofil](https://github.com/opsdisk/metagoofil.git) and Exiftool
 
 
 ## Installation
@@ -22,4 +22,4 @@ You need to install [Metagoofil](https://github.com/opsdisk/metagoofil.git) and 
 ## Usage
 It's very simple, just write this command and get the result :)
 
-`metagoofil.sh site.to.pentest.com folder/to/sdave/files OutputFileName.txt`
+`metagoofil.sh site.to.pentest.com folder/to/save/files OutputFileName.txt`
