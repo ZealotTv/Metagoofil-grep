@@ -1,6 +1,10 @@
 # Metagoofil-grep
 This script automatically downloads files of all extensions from the site you specified, grep information for all fields and writes to a file
 
+## Requirements
+You need to install Metagoofil and exiftool
+
+
 ## Installation
 ```
 1) install metagoofil(https://github.com/opsdisk/metagoofil.git)
