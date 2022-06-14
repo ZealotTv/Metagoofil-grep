@@ -23,3 +23,5 @@ You need to install [Metagoofil](https://github.com/opsdisk/metagoofil.git) and 
 It's very simple, just write this command and get the result :)
 
 `metagoofil.sh site.to.pentest.com folder/to/save/files OutputFileName.txt`
+
+Output file will be in folder where you save files!
