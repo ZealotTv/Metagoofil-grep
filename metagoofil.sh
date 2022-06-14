@@ -7,9 +7,9 @@ cd $2
 
 for i in "${fields[@]}"
 do
-	echo $i >> $3
+	echo $i >> $2/$3
     for j in "${filetypes[@]}"
     do
-	    exiftool -r *.$j | egrep -i $i | sort -u >> $3
+	    exiftool -r *.$j | egrep -i $i | sort -u >> $2/$3
     done
 done
